@@ -13,10 +13,10 @@ int main()
 
     if (escolha == 'S' || escolha == 's')
     {
-        printf("Você escolheu a tabela verdade com V ou F.\n");
+        printf("Voce escolheu a tabela verdade com V ou F.\n");
 
         // Pergunta qual proposição lógica o usuário deseja calcular
-        printf("Escolha a proposiçao lógica que deseja calcular:\n");
+        printf("Escolha a proposicao logica que deseja calcular:\n");
         printf("1 - P\n");
         printf("2 - P or Q\n");
         printf("3 - P and Q\n");
